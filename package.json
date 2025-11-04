@@ -17,8 +17,8 @@
     "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "mocha": "^10.1.0",
-    "chai": "^4.3.7",
+    "mocha": "^11.7.4",
+    "chai": "^6.2.0",
     "jshint": "^2.13.6"
   },
   "keywords": [
